@@ -1,0 +1,90 @@
+.header-text {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: darkslategrey;
+    color: antiquewhite;
+
+}
+
+img {
+    width: 100%;
+}
+
+.top {
+    padding-top: 40px;
+}
+
+.head {
+    background-color: darkslategrey;
+}
+
+body {
+    background-color: darkslategray;
+    color: antiquewhite;
+}
+
+.cover {
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+
+.comicks {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: rgb(26, 27, 29);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.icon {
+    align-items: center;
+    padding-left: 20px;
+
+}
+
+.container {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 424;
+    font-style: normal;
+}
+
+.colort {
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+
+.icon a {
+    font-size: 1.5em;
+    color: antiquewhite;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.conby {
+    padding-top: 60px;
+}
+
+.tio {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    width: 500px;
+}
+
+.covern {
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+
+
+}
+
+.coverny {
+    padding-bottom: 30px;
+    width: 600px;
+}
